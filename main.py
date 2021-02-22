@@ -8,4 +8,4 @@ def sq(a, b, c):
     return x1, x2
 
 
-print(sq(2, 3, 5))
+print(sq(2, 3, 1))
